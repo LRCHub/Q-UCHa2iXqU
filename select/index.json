@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "あなたの好きなところ",
+  "base_artist": "Kana Nishino",
+  "createdAt": "2026-03-09T07:03:29.567402Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あなたの好きなところ",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/01_あなたの好きなところ_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あなたの好きなところ",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/02_あなたの好きなところ_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あなたの好きなところ",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/03_あなたの好きなところ_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あなたの好きなところ",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/04_あなたの好きなところ_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あなたの好きなところ - Anatano Sukina Tokoro",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/05_あなたの好きなところ_-_Anatano_Sukina_Tokoro_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あなたの好きなところ",
+      "artist": "西野 カナ",
+      "has_synced": true,
+      "path": "select/06_あなたの好きなところ_西野_カナ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あなたの好きなところ",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/07_あなたの好きなところ_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "04. あなたの好きなところ",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/08_04._あなたの好きなところ_西野カナ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたの好きなところ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_01_あなたの好きなところ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "あなたの好きなところ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_02_あなたの好きなところ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "あなたの好きなところ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_03_あなたの好きなところ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "あなたの好きなところ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_04_あなたの好きなところ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "あなたの好きなところ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_05_あなたの好きなところ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "あなたの好きなところ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_06_あなたの好きなところ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "あなたの好きなところ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_07_あなたの好きなところ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "あなたの好きなところ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_08_あなたの好きなところ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "あなたの好きなところ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_09_あなたの好きなところ_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "あなたの好きなところ",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_10_あなたの好きなところ_西野_カナ.txt"
+    }
+  ]
+}
